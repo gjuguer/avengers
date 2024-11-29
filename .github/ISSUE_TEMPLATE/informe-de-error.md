@@ -2,7 +2,7 @@
 name: Informe de error
 about: Crea un informe para ayudarnos a mejorar
 title: ''
-labels: ''
+labels: Errores
 assignees: ''
 
 ---
@@ -36,7 +36,3 @@ Si corresponde, agrega capturas de pantalla para ayudar a explicar tu problema.
 
 **Contexto adicional**
 Agregue aquí cualquier otro contexto sobre el problema.
-Elementos adicionales opcionales
-Título predeterminado del problema:
-Asignados:
-Etiquetas:
